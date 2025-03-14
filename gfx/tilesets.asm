@@ -526,10 +526,6 @@ INCBIN "data/tilesets/aerodactyl_word_room_metatiles.bin.lz"
 
 SECTION "Tileset Data 9", ROMX
 
-Tileset0Attr::
-TilesetJohtoAttr::
-INCBIN "data/tilesets/johto_attributes.bin.lz"
-
 TilesetJohtoModernAttr::
 INCBIN "data/tilesets/johto_modern_attributes.bin.lz"
 
@@ -638,3 +634,10 @@ INCBIN "data/tilesets/omanyte_word_room_attributes.bin.lz"
 
 TilesetAerodactylWordRoomAttr::
 INCBIN "data/tilesets/aerodactyl_word_room_attributes.bin.lz"
+
+
+SECTION "Tileset Data 12", ROMX
+
+Tileset0Attr::
+TilesetJohtoAttr::
+INCBIN "data/tilesets/johto_attributes.bin.lz"
